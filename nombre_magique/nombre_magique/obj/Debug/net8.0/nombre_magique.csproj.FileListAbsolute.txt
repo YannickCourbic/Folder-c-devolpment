@@ -1,0 +1,14 @@
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\bin\Debug\net8.0\nombre_magique.exe
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\bin\Debug\net8.0\nombre_magique.deps.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\bin\Debug\net8.0\nombre_magique.runtimeconfig.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\bin\Debug\net8.0\nombre_magique.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\bin\Debug\net8.0\nombre_magique.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\obj\Debug\net8.0\nombre_magique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\obj\Debug\net8.0\nombre_magique.AssemblyInfoInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\obj\Debug\net8.0\nombre_magique.AssemblyInfo.cs
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\obj\Debug\net8.0\nombre_magique.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\obj\Debug\net8.0\nombre_magique.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\obj\Debug\net8.0\refint\nombre_magique.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\obj\Debug\net8.0\nombre_magique.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\obj\Debug\net8.0\nombre_magique.genruntimeconfig.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\nombre_magique\nombre_magique\obj\Debug\net8.0\ref\nombre_magique.dll

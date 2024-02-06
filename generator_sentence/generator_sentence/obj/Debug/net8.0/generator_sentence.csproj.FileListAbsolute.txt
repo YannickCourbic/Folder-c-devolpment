@@ -1,0 +1,14 @@
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\obj\Debug\net8.0\generator_sentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\obj\Debug\net8.0\generator_sentence.AssemblyInfoInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\obj\Debug\net8.0\generator_sentence.AssemblyInfo.cs
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\obj\Debug\net8.0\generator_sentence.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\bin\Debug\net8.0\generator_sentence.exe
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\bin\Debug\net8.0\generator_sentence.deps.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\bin\Debug\net8.0\generator_sentence.runtimeconfig.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\bin\Debug\net8.0\generator_sentence.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\bin\Debug\net8.0\generator_sentence.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\obj\Debug\net8.0\generator_sentence.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\obj\Debug\net8.0\refint\generator_sentence.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\obj\Debug\net8.0\generator_sentence.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\obj\Debug\net8.0\generator_sentence.genruntimeconfig.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\generator_sentence\generator_sentence\obj\Debug\net8.0\ref\generator_sentence.dll

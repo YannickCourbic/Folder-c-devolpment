@@ -1,0 +1,14 @@
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\obj\Debug\net8.0\program_collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\obj\Debug\net8.0\program_collection.AssemblyInfoInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\obj\Debug\net8.0\program_collection.AssemblyInfo.cs
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\obj\Debug\net8.0\program_collection.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\bin\Debug\net8.0\program_collection.exe
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\bin\Debug\net8.0\program_collection.deps.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\bin\Debug\net8.0\program_collection.runtimeconfig.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\bin\Debug\net8.0\program_collection.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\bin\Debug\net8.0\program_collection.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\obj\Debug\net8.0\program_collection.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\obj\Debug\net8.0\refint\program_collection.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\obj\Debug\net8.0\program_collection.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\obj\Debug\net8.0\program_collection.genruntimeconfig.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\program_collection\program_collection\obj\Debug\net8.0\ref\program_collection.dll

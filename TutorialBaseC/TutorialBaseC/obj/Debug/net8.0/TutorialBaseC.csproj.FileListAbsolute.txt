@@ -1,0 +1,14 @@
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\bin\Debug\net8.0\TutorialBaseC.exe
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\bin\Debug\net8.0\TutorialBaseC.deps.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\bin\Debug\net8.0\TutorialBaseC.runtimeconfig.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\bin\Debug\net8.0\TutorialBaseC.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\bin\Debug\net8.0\TutorialBaseC.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\obj\Debug\net8.0\TutorialBaseC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\obj\Debug\net8.0\TutorialBaseC.AssemblyInfoInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\obj\Debug\net8.0\TutorialBaseC.AssemblyInfo.cs
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\obj\Debug\net8.0\TutorialBaseC.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\obj\Debug\net8.0\TutorialBaseC.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\obj\Debug\net8.0\refint\TutorialBaseC.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\obj\Debug\net8.0\TutorialBaseC.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\obj\Debug\net8.0\TutorialBaseC.genruntimeconfig.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\TutorialBaseC\TutorialBaseC\obj\Debug\net8.0\ref\TutorialBaseC.dll

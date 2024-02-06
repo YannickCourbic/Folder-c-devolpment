@@ -1,0 +1,14 @@
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\obj\Debug\net8.0\PooPearson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\obj\Debug\net8.0\PooPearson.AssemblyInfoInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\obj\Debug\net8.0\PooPearson.AssemblyInfo.cs
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\obj\Debug\net8.0\PooPearson.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\bin\Debug\net8.0\PooPearson.exe
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\bin\Debug\net8.0\PooPearson.deps.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\bin\Debug\net8.0\PooPearson.runtimeconfig.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\bin\Debug\net8.0\PooPearson.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\bin\Debug\net8.0\PooPearson.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\obj\Debug\net8.0\PooPearson.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\obj\Debug\net8.0\refint\PooPearson.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\obj\Debug\net8.0\PooPearson.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\obj\Debug\net8.0\PooPearson.genruntimeconfig.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\PooPearson\PooPearson\obj\Debug\net8.0\ref\PooPearson.dll

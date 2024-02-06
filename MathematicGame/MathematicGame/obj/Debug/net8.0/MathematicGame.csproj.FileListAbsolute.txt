@@ -1,0 +1,14 @@
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\bin\Debug\net8.0\MathematicGame.exe
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\bin\Debug\net8.0\MathematicGame.deps.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\bin\Debug\net8.0\MathematicGame.runtimeconfig.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\bin\Debug\net8.0\MathematicGame.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\bin\Debug\net8.0\MathematicGame.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\obj\Debug\net8.0\MathematicGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\obj\Debug\net8.0\MathematicGame.AssemblyInfoInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\obj\Debug\net8.0\MathematicGame.AssemblyInfo.cs
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\obj\Debug\net8.0\MathematicGame.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\obj\Debug\net8.0\MathematicGame.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\obj\Debug\net8.0\refint\MathematicGame.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\obj\Debug\net8.0\MathematicGame.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\obj\Debug\net8.0\MathematicGame.genruntimeconfig.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\MathematicGame\MathematicGame\obj\Debug\net8.0\ref\MathematicGame.dll

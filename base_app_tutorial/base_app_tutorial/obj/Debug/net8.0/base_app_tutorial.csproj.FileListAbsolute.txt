@@ -1,0 +1,14 @@
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\bin\Debug\net8.0\base_app_tutorial.exe
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\bin\Debug\net8.0\base_app_tutorial.deps.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\bin\Debug\net8.0\base_app_tutorial.runtimeconfig.json
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\bin\Debug\net8.0\base_app_tutorial.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\bin\Debug\net8.0\base_app_tutorial.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\obj\Debug\net8.0\base_app_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\obj\Debug\net8.0\base_app_tutorial.AssemblyInfoInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\obj\Debug\net8.0\base_app_tutorial.AssemblyInfo.cs
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\obj\Debug\net8.0\base_app_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\obj\Debug\net8.0\base_app_tutorial.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\obj\Debug\net8.0\refint\base_app_tutorial.dll
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\obj\Debug\net8.0\base_app_tutorial.pdb
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\obj\Debug\net8.0\base_app_tutorial.genruntimeconfig.cache
+C:\Users\Yanni\OneDrive\Bureau\Folder C# Devolpmen\base_app_tutorial\base_app_tutorial\obj\Debug\net8.0\ref\base_app_tutorial.dll
